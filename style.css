@@ -1,0 +1,77 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+form{
+    display: flex;
+    gap:10px;
+    padding-left: 250px;
+    padding-top: 10px;
+}
+
+input{
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+}
+
+select{
+    border-radius: 10px;
+    padding: 15px;
+}
+
+button{
+    border-radius: 10px;
+    padding: 15px;
+    background-color: blueviolet;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+button:hover{
+    background-color: rgb(87, 40, 131);
+}
+
+table{
+    display: flex;
+    flex-direction: column;
+    padding-left: 220px;
+    padding-top: 10px;
+    border-collapse: collapse;  /*to make border as collapsed*/
+    margin-top: 20px;
+}
+
+th{
+    border:1px solid black;
+    width: 200px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    background-color: darkmagenta;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+td{
+    border:1px solid black;
+    width: 200px;
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.total-amount{
+    text-align: right;
+    padding-right: 320px;
+    margin-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.filter{
+    text-align: right;
+    padding-right: 320px;
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
