@@ -14,3 +14,11 @@ This project focuses on functionality and UI design for desktop users.
 HTML5 – Structure and form design <br/>
 CSS3 – Styling and layout <br/>
 JavaScript (ES6) – App logic, dynamic updates, and interactivity <br/>
+
+# 📂 Project Structure
+expense-tracker/
+│
+├── index.html
+├── style.css
+└── script.js
+
