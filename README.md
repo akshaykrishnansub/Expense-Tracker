@@ -4,8 +4,8 @@ This project focuses on functionality and UI design for desktop users.
 
 # Features
 ➕ Add Expense: Add a new expense with category, amount, and date. <br/>
-✏️ Edit Expense: Modify existing expense details easily.
-❌ Delete Expense: Remove unwanted expense entries.
-💰 Total Calculation: Automatically updates the total amount of all expenses.
-📊 Category Filter (if added): View expenses by specific categories.
-🖥️ Desktop UI: Clean and simple layout optimized for desktop screens.
+✏️ Edit Expense: Modify existing expense details easily. <br/>
+❌ Delete Expense: Remove unwanted expense entries. <br/>
+💰 Total Calculation: Automatically updates the total amount of all expenses. <br/>
+📊 Category Filter (if added): View expenses by specific categories. <br/>
+🖥️ Desktop UI: Clean and simple layout optimized for desktop screens. <br/>
