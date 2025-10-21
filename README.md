@@ -9,3 +9,8 @@ This project focuses on functionality and UI design for desktop users.
 💰 Total Calculation: Automatically updates the total amount of all expenses. <br/>
 📊 Category Filter (if added): View expenses by specific categories. <br/>
 🖥️ Desktop UI: Clean and simple layout optimized for desktop screens. <br/>
+
+# 🛠️ Built With
+HTML5 – Structure and form design <br/>
+CSS3 – Styling and layout <br/>
+JavaScript (ES6) – App logic, dynamic updates, and interactivity <br/>
