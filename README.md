@@ -16,9 +16,9 @@ CSS3 – Styling and layout <br/>
 JavaScript (ES6) – App logic, dynamic updates, and interactivity <br/>
 
 # 📂 Project Structure
-expense-tracker/
-│
-├── index.html
-├── style.css
-└── script.js
+expense-tracker/ <br/>
+│<br/>
+├── index.html<br/>
+├── style.css<br/>
+└── script.js<br/>
 
