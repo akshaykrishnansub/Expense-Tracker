@@ -28,6 +28,12 @@ expense-tracker/ <br/>
 <img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/bd135517-6275-4275-8086-0b0df8ba9b5a" />
 <img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/9a6c6582-7544-476e-bd15-5cafd4348c3b" />
 
+# 💡 Future Enhancements
+
+🗃️ Add data persistence using localStorage or a database <br/>
+📱 Make the app mobile responsive <br/>
+📈 Include charts for expense visualization <br/>
+🔍 Add advanced filters (date range, categories) <br/>
 
 
 
